@@ -5,8 +5,8 @@ This project is my **second task** as part of a **Web Development internship**. 
 ---
 
 ## 🚀 Live Demo  
-🔗 https://lini-dev.github.io/stopwatch-web-app/
-
+🔗 [https://lini-dev.github.io/stopwatch-web-app/
+](https://linibelav.github.io/PRODIGY_WD_02/)
 ---
 
 ## 📌 Task Description
